@@ -1,0 +1,2 @@
+# Hotings
+For hostings
